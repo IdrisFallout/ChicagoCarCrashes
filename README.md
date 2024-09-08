@@ -83,6 +83,9 @@ The dataset can be found here: [Chicago Car Crash Dataset](https://data.cityofch
 - **LONGITUDE**: The longitude of the crash location.
 - **LOCATION**: The crash location.
 
+![images3](images/correlation_heatmap.png)
+![images3](images/injury_by_weather.png)
+
 ## Data Preparation
 
 During data preparation, the following steps were taken:
