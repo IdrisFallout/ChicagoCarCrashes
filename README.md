@@ -85,6 +85,7 @@ The dataset can be found here: [Chicago Car Crash Dataset](https://data.cityofch
 
 ![images3](images/correlation_heatmap.png)
 ![images3](images/injury_by_weather.png)
+![images3](images/heatmap.png)
 
 ## Data Preparation
 
